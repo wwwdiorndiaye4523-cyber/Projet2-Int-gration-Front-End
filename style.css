@@ -1,10 +1,6 @@
 .navbar {
     background-color: #0dcaf0;
 }
-.img{
-    display: flex;
-}
-
 .card-text {
     font-size: 0.9rem;
     color: #555555;
